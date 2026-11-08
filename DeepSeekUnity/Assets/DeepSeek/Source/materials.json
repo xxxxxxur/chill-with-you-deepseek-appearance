@@ -1,0 +1,187 @@
+{
+  "materials": [
+    {
+      "name": "Body",
+      "blenderMaterial": "body.001",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Body.png"
+    },
+    {
+      "name": "Skirt",
+      "blenderMaterial": "dress.001",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Skirt.png"
+    },
+    {
+      "name": "SkirtAccent",
+      "blenderMaterial": "dress2.001",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "SkirtAccent.png"
+    },
+    {
+      "name": "Hair",
+      "blenderMaterial": "hair.002",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Hair.png"
+    },
+    {
+      "name": "Face",
+      "blenderMaterial": "材质.002",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Face.png"
+    },
+    {
+      "name": "Eye",
+      "blenderMaterial": "eye",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Eye.png"
+    },
+    {
+      "name": "BrowHair",
+      "blenderMaterial": "hair.003",
+      "linearColor": [
+        0.10702239722013474,
+        0.1499614715576172,
+        0.37123918533325195,
+        1.0
+      ]
+    },
+    {
+      "name": "Eyebrow",
+      "blenderMaterial": "材质.004",
+      "linearColor": [
+        0.03630701079964638,
+        0.009579422883689404,
+        0.01100187934935093,
+        1.0
+      ]
+    },
+    {
+      "name": "EyelidAccent",
+      "blenderMaterial": "材质.006",
+      "linearColor": [
+        0.6866997480392456,
+        0.2746800482273102,
+        0.25818297266960144,
+        1.0
+      ]
+    },
+    {
+      "name": "Accessories",
+      "blenderMaterial": "配饰.001",
+      "linearColor": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "file": "Accessories.png"
+    }
+  ],
+  "meshes": [
+    "Tail",
+    "Shoes",
+    "Hairband",
+    "Hair",
+    "Face",
+    "Ear",
+    "Dress2.001",
+    "Dress2",
+    "Dress1",
+    "Body"
+  ],
+  "faceBlendShapes": [
+    "blendShape1.Mouth_n",
+    "blendShape1.Mouth_e",
+    "blendShape1.Mouth_i",
+    "blendShape1.Mouth_o",
+    "blendShape1.Mouth_u",
+    "blendShape1.Mouth_a",
+    "blendShape1.Mouth_smile",
+    "blendShape1.Mouth_anger2",
+    "blendShape1.Mouth_sad",
+    "blendShape1.Mouth_happy",
+    "blendShape1.Mouth_anger",
+    "blendShape1.Mouth_anguri",
+    "blendShape1.Mouth_niyari",
+    "blendShape1.Mouth_tameiki",
+    "blendShape1.Mouth_smile_ex",
+    "blendShape1.Mouth_takurami",
+    "blendShape1.Mouth_chi",
+    "blendShape1.Mouth_smile2",
+    "blendShape1.Mouth_anger3",
+    "blendShape1.Mouth_uhe",
+    "blendShape1.Mouth_narrow",
+    "blendShape1.Mouth_wide",
+    "blendShape1.Mouth_move_left",
+    "blendShape1.Eye_blink",
+    "blendShape1.Eye_smile",
+    "blendShape1.Eye_under_sanpaku_L",
+    "blendShape1.Eye_anger",
+    "blendShape1.Eye_sad",
+    "blendShape1.Eye_under_smile_L",
+    "blendShape1.Eye_happy",
+    "blendShape1.Eye_smile2",
+    "blendShape1.Eye_size_small",
+    "blendShape1.Eye_size_big",
+    "blendShape1.Eye_size_pupil_small",
+    "blendShape1.Eye_size_pupil_big",
+    "blendShape1.Eye_shitake",
+    "blendShape1.Eye_look_left",
+    "blendShape1.Eye_look_up",
+    "blendShape1.Eye_look_down",
+    "blendShape1.Eyeblow_up_L",
+    "blendShape1.Eyeblow_down_L",
+    "blendShape1.Eyeblow_fun_L",
+    "blendShape1.Eyeblow_anger_L",
+    "blendShape1.Eyeblow_sad_L",
+    "blendShape1.Eyeblow_smile_L",
+    "blendShape1.Mouth_move_right",
+    "blendShape1.Eye_blink_R",
+    "blendShape1.Eye_blink_L",
+    "blendShape1.Eye_under_sanpaku_R",
+    "blendShape1.Eye_under_smile_R",
+    "blendShape1.Eye_look_right",
+    "blendShape1.Eyeblow_up_R",
+    "blendShape1.Eyeblow_down_R",
+    "blendShape1.Eyeblow_fun_R",
+    "blendShape1.Eyeblow_anger_R",
+    "blendShape1.Eyeblow_sad_R",
+    "blendShape1.Eyeblow_smile_R"
+  ],
+  "faceOverlaySubmeshes": [
+    3,
+    5,
+    6
+  ]
+}

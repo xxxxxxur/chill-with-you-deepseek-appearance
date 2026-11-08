@@ -1,0 +1,8 @@
+# Chill With Anyone Configuration
+# 启用眼镜（true=显示，false=隐藏）注：1.0版本中除Eku外不推荐打开，会有错位问题
+# Enable glasses (true=show, false=hide)
+ENABLE_GLASSES=false
+
+# 启用形态键调试器（true=启用，false=禁用）- 按F9打开
+# Enable debugger (true=enable, false=disable) - Press F9 to open
+ENABLE_DEBUGGER=false

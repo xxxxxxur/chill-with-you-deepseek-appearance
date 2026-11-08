@@ -1,0 +1,14 @@
+bin/
+obj/
+dist/
+.vs/
+DeepSeekUnity/Library/
+DeepSeekUnity/Logs/
+DeepSeekUnity/Temp/
+DeepSeekUnity/UserSettings/
+DeepSeekUnity/Build/
+DeepSeekUnity/Assets/DeepSeek/Native*
+DeepSeekUnity/Assets/DeepSeek/Generated/*
+!DeepSeekUnity/Assets/DeepSeek/Generated/PreviewPipeline.asset*
+!DeepSeekUnity/Assets/DeepSeek/Generated/PreviewRenderer.asset*
+*.log
